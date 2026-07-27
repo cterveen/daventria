@@ -26,7 +26,7 @@ regions:
   footer: 'Footer'
   page_top: 'Page top'
   page_bottom: 'Page bottom'
-version: 10.2.6
+version: 3.1.0
 project: drupal
 datestamp: 1714597793
 core_version_requirement: ^10 || ^11
